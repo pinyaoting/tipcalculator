@@ -11,4 +11,6 @@ Completed user stories:
     Required: User can customize tip amount in setting page.
 
 Walkthrough of all user stories:
-(To Be Added)
+![Video Walkthrough](introduction.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
